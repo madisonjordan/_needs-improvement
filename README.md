@@ -1,2 +1,11 @@
-# _needs_improvement
-wall of shame for problems that will haunt me forever. but can hopefully learn from my failures
+# Wall of Shame
+
+
+## Common Problems
++ parsing input / string
+
+
+## Patterns and General Strategies
+
++ brute force
++ use a stack?
